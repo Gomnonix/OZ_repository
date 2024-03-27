@@ -64,8 +64,8 @@ const deleteButton = document.querySelector('.btn-del');
 deleteButton.addEventListener('click', function() {
     // 체크된 체크박스 모두 가져오기
     const checkedCheckboxes = document.querySelectorAll('input[type="checkbox"]:checked');
-    
 
+    
     checkedCheckboxes.forEach(checkbox => {
         const row = checkbox.parentNode.parentNode;
         row.remove();
