@@ -11,4 +11,4 @@
 - 카테고리 앞에 체크 박스를 하나씩 넣어주고, 선택된 체크 박스를 삭제하는 버튼을 만들어주세요 그 위치는 조회 버튼이 있는 라인의 가장 끝에 위치했으면 좋겠습니다.
 - 신규 등록 상품 옆에  신규 등록 상품 (2024-01-22) 형태로 변경해주시고요 날짜는 업데이트된 일자가 반영되도록 만들어주세요
 - 테이블 하단 또는 상단에 github 아이콘을 넣어주세요 그리고 이미지 클릭하면 여러분의 깃허브 주소로 이동하도록 만들주세요
-![adminPage1](https://github.com/Gomnonix/admin_page/commit/8301aa22f8a41209a52d480d41b37e447b4a30ac)
+* ![adminPage1](https://github.com/Gomnonix/admin_page/commit/8301aa22f8a41209a52d480d41b37e447b4a30ac)
