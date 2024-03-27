@@ -13,4 +13,4 @@
 - 테이블 하단 또는 상단에 github 아이콘을 넣어주세요 그리고 이미지 클릭하면 여러분의 깃허브 주소로 이동하도록 만들주세요
 
   
-![Admin 프로젝트](https://github.com/Gomnonix/admin_page/commit/8301aa22f8a41209a52d480d41b37e447b4a30ac)
+![adminPage1.png](https://github.com/Gomnonix/admin_page/blob/main/adminPage1.png)
