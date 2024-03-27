@@ -49,7 +49,7 @@ searchButton.addEventListener('click', function() {
 // 카테고리 이벤트
 document.getElementById('inlineFormSelectPref').addEventListener('change', function() {
     const selectedCategory = this.value;
-    if (selectedCategory === '전체') {
+    if (selectedCategory === '카테고리') {
         displayData(data);
     } else {
         const filteredData = data.filter(item => item.category === selectedCategory);
