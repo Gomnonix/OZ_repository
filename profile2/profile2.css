@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-color: #ff5432;
+    font-size: 16px;
+}
+
+body{
+    width: 640px;
+    margin: auto; /* 너비에서 남는 여백을 동일하게 분배 */ 
+}
+
+h1{
+    font-size: 48px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+p{
+    font-size: 1.5rem;
+} 
+/*
+1. 글꼴 바꾸기, 2. 색상 바꾸기, 3. 자기 원하는 스타일 추가 적용해보기
+*/
