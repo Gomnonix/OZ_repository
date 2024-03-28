@@ -1,9 +1,29 @@
 # Admin 페이지 프로트단 제작 프로젝트
+
+## 🗓프로젝트 기간
+-  **기본요구사항 :'24.03.26 ~ '24.03.26**
+-  **더 만들어볼 기능 : '24.03.26 ~ '24.03.26**
+
+## 🗞실행 방법
+1. Git Repo Clone
+
+```
+https://github.com/Gomnonix/admin_page
+```
+2. Move to Project HTML Folder
+```
+https://github.com/Gomnonix/admin_page/blob/main/admin-page.html
+```
+3. Run HTML File
+
+-  
 ## 프로젝트 내용
+
 ## ⚙️ 사용 기술
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### 기본 요구 사항
 - 카테고리(셀렉트)를 클릭하면 상의, 하의, 신발, 패션잡화 메뉴가 나오게 코드 작성
 - 입력 버튼 안에 “제품명을 입력해주세요
