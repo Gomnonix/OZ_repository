@@ -40,6 +40,8 @@ https://github.com/Gomnonix/admin_page/blob/main/admin-page.html
 ![adminPage1](https://github.com/Gomnonix/admin_page/blob/main/adminPage1.png)
 
 ## 프로젝트 구조
+```yaml
+
 📦admin_page
  ┣ 📂.git
  ┃ ┣ 📂hooks
