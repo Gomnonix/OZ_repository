@@ -42,3 +42,13 @@ https://github.com/Gomnonix/admin_page/blob/main/admin-page.html
 ## 프로젝트 구조
 ```yaml
 
+.
+├── admin_page
+│   ├── js
+│   │   └── admin.js  
+│   └── images
+│   │    └── github.png
+│   ├── admin.html
+│   └── README.md
+└── README.md
+
