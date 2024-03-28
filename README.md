@@ -22,7 +22,6 @@ https://github.com/Gomnonix/admin_page/blob/main/admin-page.html
 ```
 3. Run HTML File
 
--  
 ## 프로젝트 내용
 
 ### 기본 요구 사항
