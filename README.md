@@ -1,17 +1,24 @@
 # Admin 페이지 프로트단 제작 프로젝트
 
 ## ⚙️ 사용 기술
+
+### Backend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Cloud Service
+
+
+## 
+
 
 ## 🗓프로젝트 기간
--  **기본요구사항 :'24.03.26 ~ '24.03.26**
--  **더 만들어볼 기능 : '24.03.26 ~ '24.03.26**
+-  **기본요구사항 :'24.07.09 ~ '24.08.05**
 
 ## 👤멤버 구성
 1. Gomnonix
+2. im-niber
 
 ## 🗞실행 방법
 1. Git Repo Clone
