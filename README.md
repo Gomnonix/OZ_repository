@@ -7,10 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Cloud Service
-
-
-## 
 
 
 ## 🗓프로젝트 기간
@@ -18,7 +14,6 @@
 
 ## 👤멤버 구성
 1. Gomnonix
-2. im-niber
 
 ## 🗞실행 방법
 1. Git Repo Clone
