@@ -15,7 +15,6 @@ options_.add_argument(f"user-agent={user}")
 options_.add_experimental_option("detach", True)
 options_.add_experimental_option("excludeSwitches", ["enable-logging"])
 
-
 #크롬 드라이버 매니저를 자동으로 설치되도록 실행시키는 코드
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options_)
