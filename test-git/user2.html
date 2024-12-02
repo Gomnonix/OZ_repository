@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>사용자 정보 입력받고 출력하기</title>
+    <style>
+        #hobby{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="name"></h1>
+    <p id="hobby"></p>
+    <p id="song"></p>
+
+    <script> //입력 - 처리 - 출력
+       const nameElement  = document.querySelector("#name")
+       let name = prompt("당신의 이름은?")
+       nameElement.textContent = name
+
+       const hobbyElement  = document.querySelector("#hobby")
+       let hobby = prompt("당신의 취미는?")
+       hobbyElement.textContent = `취미는 ${hobby}`
+
+       document.querySelector("#song").textContent = `좋아하는 곡은 ${prompt("좋아하는 곳은?")}입니다`
+       
+//이름(h1), 좋아하는 동물(p), 좋아하는 과일(p) 입력은 모두 prompt로 받는다.
+    </script> 
+    
+</body>
+</html> 
